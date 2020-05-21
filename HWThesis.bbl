@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{ghc-smp}
+T.~Harris, S.~Marlow, and S.~P. Jones.
+\newblock {Haskell on a Shared-Memory Multiprocessor}.
+\newblock In {\em {Proceedings of the 2005 ACM SIGPLAN workshop on Haskell}},
+  {Haskell '05}, pages 49--61, New York, NY, USA, 2005. ACM.
+
+\bibitem{ghc-pps}
+J.~D. Jones, S.~Marlow, and S.~Singh.
+\newblock {Parallel performance tuning for Haskell}.
+\newblock In {\em {Proceedings of the 2nd ACM SIGPLAN symposium on Haskell}},
+  {Haskell '09}, pages 81--92, New York, NY, USA, 2009. ACM.
+
+\bibitem{gum}
+P.~W. Trinder, K.~Hammond, J.~S. {Mattson Jr.}, A.~S. Partridge, and S.~L.
+  {Peyton Jones}.
+\newblock {{GUM}: a Portable Parallel Implementation of {Haskell}}.
+\newblock In {\em {PLDI~'96, Philadelphia, USA}}, pages 78--88. {ACM Press},
+  1996.
+
+\end{thebibliography}
