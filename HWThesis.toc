@@ -7,10 +7,11 @@
 \contentsline {subsection}{\numberline {2.1.1}Subsection}{3}{subsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.1}Subsubsection}{3}{subsubsection.2.1.1.1}
 \contentsline {chapter}{\numberline {3}Stability study}{4}{chapter.3}
-\contentsline {section}{\numberline {3.1}System modelling}{4}{section.3.1}
-\contentsline {section}{\numberline {3.2}Hamiltonian Lagrange formulation}{4}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Subsection}{4}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Subsubsection}{4}{subsubsection.3.2.1.1}
+\contentsline {section}{\numberline {3.1}Introduction: What Proof of Concept}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}System modelling}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Hamiltonian Lagrange formulation}{5}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Subsection}{5}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Subsubsection}{5}{subsubsection.3.3.1.1}
 \contentsline {chapter}{\numberline {4}Design}{6}{chapter.4}
 \contentsline {section}{\numberline {4.1}Section}{6}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Subsection}{7}{subsection.4.1.1}
