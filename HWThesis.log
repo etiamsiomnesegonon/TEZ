@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.19)  28 JUN 2020 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.19)  2 AUG 2020 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,10 +552,7 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (./HWThesis.aux
 
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `tab:lable' multiply defined.
+LaTeX Warning: Label `Actuation with robotic arms' multiply defined.
 
 
 LaTeX Warning: Label `fig:label' multiply defined.
@@ -674,7 +671,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-<Figures/LogoBlack.jpg, id=88, 637.99644pt x 634.88806pt>
+<Figures/LogoBlack.jpg, id=205, 637.99644pt x 634.88806pt>
 File: Figures/LogoBlack.jpg Graphic file (type jpg)
 <use Figures/LogoBlack.jpg>
 Package pdftex.def Info: Figures/LogoBlack.jpg  used on input line 59.
@@ -1083,7 +1080,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [24]
 Chapter 2.
-<Figures/Background/pic.png, id=373, 582.175pt x 441.65pt>
+<Figures/Background/pic.png, id=491, 582.175pt x 441.65pt>
 File: Figures/Background/pic.png Graphic file (type png)
 <use Figures/Background/pic.png>
 Package pdftex.def Info: Figures/Background/pic.png  used on input line 20.
@@ -1112,40 +1109,51 @@ l.3 \chapter
             {Modelling of a rotating free-floating object dynamic interactio...
 ]
 Chapter 3.
-File: Figures/Background/pic.png Graphic file (type png)
-<use Figures/Background/pic.png>
-Package pdftex.def Info: Figures/Background/pic.png  used on input line 25.
-(pdftex.def)             Requested size: 341.43306pt x 259.02126pt.
+
+Overfull \hbox (25.22438pt too wide) in paragraph at lines 13--13
+[]\OT1/cmr/bx/n/17.28 Introductory il-lus-tra-tion the Yo-Yo de-spin mech-
+ []
+
 [27
 
 ]
+Overfull \hbox (25.22438pt too wide) in paragraph at lines 22--22
+[]\OT1/cmr/bx/n/17.28 Introductory il-lus-tra-tion the Yo-Yo de-spin mech-
+ []
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 53.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 27.18335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.45 W
-      rite.. \glspl{pe}.]) (./Design.tex
+[28]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 27.18335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29]
+[29]) (./Design.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
 Chapter 4.
-<Figures/Design/pic.png, id=411, 501.875pt x 460.72125pt>
+<Figures/Design/pic.png, id=539, 501.875pt x 460.72125pt>
 File: Figures/Design/pic.png Graphic file (type png)
 <use Figures/Design/pic.png>
 Package pdftex.def Info: Figures/Design/pic.png  used on input line 13.
 (pdftex.def)             Requested size: 341.43306pt x 313.448pt.
-[30
+[31
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
@@ -1160,7 +1168,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}
+[32pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1168,15 +1176,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 l.1 \chapter
             {Conclusion and Future Work}]
 Chapter 5.
-) (./Appendix1.tex [32
+) (./Appendix1.tex [33
 
 ]
 Appendix A.
-) (./HWThesis.bbl [33
+) (./HWThesis.bbl [34
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [34
+ [35
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
@@ -1190,8 +1198,8 @@ Package rerunfilecheck Warning: File `HWThesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `HWThesis.out':
-(rerunfilecheck)             Before: 232B508F948DF638D218873615C5EBFE;1280
-(rerunfilecheck)             After:  FB78D45EDE921EAF829DB9723CF17E79;4051.
+(rerunfilecheck)             Before: FB78D45EDE921EAF829DB9723CF17E79;4051
+(rerunfilecheck)             After:  C2481D16FD5BA5AC86D1A125D7C8C9FB;4128.
 
 LaTeX Warning: There were undefined references.
 
@@ -1201,39 +1209,38 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 13593 strings out of 492982
- 199828 string characters out of 6134895
- 357564 words of memory out of 5000000
- 16716 multiletter control sequences out of 15000+600000
- 11427 words of font info for 40 fonts, out of 8000000 for 9000
+ 13627 strings out of 492982
+ 200517 string characters out of 6134895
+ 370224 words of memory out of 5000000
+ 16749 multiletter control sequences out of 15000+600000
+ 12048 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,43p,2664b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,17n,43p,2664b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{glo:pe} has been referenced but does not exist, r
 eplaced by a fixed one
 
 pdfTeX warning (dest): name{glo:ghc} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{table.3.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix*.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.3.1.1} has been referenced but does
- not exist, replaced by a fixed one
+pdfTeX warning (dest): name{figure.3.1} has been referenced but does not exist,
+ replaced by a fixed one
 
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on HWThesis.pdf (41 pages, 431251 bytes).
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on HWThesis.pdf (42 pages, 489333 bytes).
 PDF statistics:
- 501 PDF objects out of 1000 (max. 8388607)
- 443 compressed objects within 5 object streams
- 181 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 577 compressed objects within 6 object streams
+ 180 named destinations out of 1000 (max. 500000)
+ 416 words of extra memory for PDF output out of 10000 (max. 10000000)
 

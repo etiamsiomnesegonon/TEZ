@@ -109,17 +109,18 @@
 \contentsline {subsection}{\numberline {2.1.1}Subsection}{26}{subsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.1}Subsubsection}{26}{subsubsection.2.1.1.1}
 \contentsline {chapter}{\numberline {3}Modelling of a rotating free-floating object dynamic interactions with a mass moving on its surface}{27}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction: What Proof of Concept}{27}{section.3.1}
-\contentsline {section}{\numberline {3.2}Illustration of the approach: the Yo-Yo despin mechanism}{28}{section.3.2}
+\contentsline {section}{\numberline {3.1}Introductory illustration the Yo-Yo despin mechanism}{28}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introductory illustration the Yo-Yo despin mechanism}{28}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Yo-Yo despin mechanism description}{28}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}System modelling}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Continuous model}{29}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Continuous model}{28}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Discrete point mass model}{29}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Hamiltonian Lagrange formulation}{29}{section.3.4}
-\contentsline {chapter}{\numberline {4}Design}{30}{chapter.4}
-\contentsline {section}{\numberline {4.1}Section}{30}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Subsection}{31}{subsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.1}Subsubsection}{31}{subsubsection.4.1.1.1}
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{32}{chapter.5}
-\contentsline {chapter}{\numberline {A}Foo}{33}{appendix.A}
-\contentsline {chapter}{Bibliography}{34}{appendix*.79}
+\contentsline {section}{\numberline {3.4}System equilibria}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Hamiltonian Lagrange formulation}{30}{section.3.5}
+\contentsline {chapter}{\numberline {4}Design}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}Section}{31}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Subsection}{32}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Subsubsection}{32}{subsubsection.4.1.1.1}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{33}{chapter.5}
+\contentsline {chapter}{\numberline {A}Foo}{34}{appendix.A}
+\contentsline {chapter}{Bibliography}{35}{appendix*.79}
