@@ -108,19 +108,52 @@
 \contentsline {section}{\numberline {2.1}Section}{25}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Subsection}{26}{subsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.1}Subsubsection}{26}{subsubsection.2.1.1.1}
-\contentsline {chapter}{\numberline {3}Modelling of a rotating free-floating object dynamic interactions with a mass moving on its surface}{27}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introductory illustration the Yo-Yo despin mechanism}{28}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introductory illustration the Yo-Yo despin mechanism}{28}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Yo-Yo despin mechanism description}{28}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}System modelling}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Continuous model}{28}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Discrete point mass model}{29}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}System equilibria}{30}{section.3.4}
-\contentsline {section}{\numberline {3.5}Hamiltonian Lagrange formulation}{30}{section.3.5}
-\contentsline {chapter}{\numberline {4}Design}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}Section}{31}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Subsection}{32}{subsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.1}Subsubsection}{32}{subsubsection.4.1.1.1}
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{33}{chapter.5}
-\contentsline {chapter}{\numberline {A}Foo}{34}{appendix.A}
-\contentsline {chapter}{Bibliography}{35}{appendix*.79}
+\contentsline {chapter}{\numberline {3}Background}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Section}{27}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Subsection}{28}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}Subsubsection}{28}{subsubsection.3.1.1.1}
+\contentsline {chapter}{\numberline {4}Modelling of a rotating free-floating object dynamic interactions with a mass moving on its surface}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introductory illustration the Yo-Yo despin mechanism}{30}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}System description}{30}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}System modelling}{30}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Continuous model}{30}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Discrete point mass model BEWARE IT NEGLECTS ROTATION ON Er AXIS IE ON ITSELF IN OTHER WORD THE ROTATION OF THE SPHERICAL BASIS ON ITSELF}{31}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Angular momentum and Energy Approach}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Hypotheses}{32}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Expression in any vector basis}{33}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Objectives}{34}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Assumptions}{34}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Engineering Objectives}{34}{subsubsection.4.3.3.2}
+\contentsline {subsection}{\numberline {4.3.4}In our case}{35}{subsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4.1}Angular Momentum Calculation}{35}{subsubsection.4.3.4.1}
+\contentsline {subsubsection}{\numberline {4.3.4.2}Kinetic Energy Calculation}{36}{subsubsection.4.3.4.2}
+\contentsline {section}{\numberline {4.4}Angular Velocity Command}{36}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Non contributing velocity command}{37}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Error vector magnitude stability?}{38}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Elimination of the added mass}{38}{subsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.3.1}naive control command opposite velocity}{38}{subsubsection.4.4.3.1}
+\contentsline {subsection}{\numberline {4.4.4}Landing site}{39}{subsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.4.1}Ellipsoid generation}{39}{subsubsection.4.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.4.2}Model}{40}{subsubsection.4.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.4.3}Error vector}{42}{subsubsection.4.4.4.3}
+\contentsline {subsection}{\numberline {4.4.5}System plant time-dependent state space model}{44}{subsection.4.4.5}
+\contentsline {subsubsection}{\numberline {4.4.5.1}System equilibria USEFUL??}{44}{subsubsection.4.4.5.1}
+\contentsline {subsubsection}{\numberline {4.4.5.2}Observability and controllability}{44}{subsubsection.4.4.5.2}
+\contentsline {subsubsection}{\numberline {4.4.5.3}Design of a MPC feedback controller for maintaining the initial rotational state (with and without constraints)}{44}{subsubsection.4.4.5.3}
+\contentsline {subsubsection}{\numberline {4.4.5.4}Design of a MPC feedback controller for controlling the rotational state of the object (with and without constraints)}{44}{subsubsection.4.4.5.4}
+\contentsline {chapter}{\numberline {5}Envelopment Task}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Description of the task}{45}{section.5.1}
+\contentsline {section}{\numberline {5.2}Principle for the robot design}{45}{section.5.2}
+\contentsline {section}{\numberline {5.3}Control Algorithm Design / Management of Failures / Proof of completion and correctness}{45}{section.5.3}
+\contentsline {section}{\numberline {5.4}Experimental Setup}{45}{section.5.4}
+\contentsline {section}{\numberline {5.5}Report and interpret results conclude and open on next chapter}{45}{section.5.5}
+\contentsline {section}{\numberline {5.6}Bibliography: for chapter 2}{45}{section.5.6}
+\contentsline {chapter}{\numberline {6}Arm Stabilisation}{46}{chapter.6}
+\contentsline {section}{\numberline {6.1}Reverting the paradigm using robotic arms as actuators}{46}{section.6.1}
+\contentsline {section}{\numberline {6.2}Algorithm 1 Mathematical Model Problem Formulation Control Design Experimental setup Simulation Results Conclusions}{46}{section.6.2}
+\contentsline {section}{\numberline {6.3}Algorithm 2 Mathematical Model Problem Formulation Control Design Experimental setup Simulation Results Conclusions}{46}{section.6.3}
+\contentsline {section}{\numberline {6.4} 4) Algorithm 3 Mathematical Model Problem Formulation Control Design Experimental setup Simulation Results Conclusions}{46}{section.6.4}
+\contentsline {section}{\numberline {6.5}Bibliography: for chapter 3}{46}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusion and Future Work}{47}{chapter.7}
+\contentsline {chapter}{\numberline {A}Foo}{48}{appendix.A}
+\contentsline {chapter}{Bibliography}{49}{appendix*.79}

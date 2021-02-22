@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.19)  2 AUG 2020 23:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.19)  22 FEB 2021 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,6 +555,9 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 LaTeX Warning: Label `Actuation with robotic arms' multiply defined.
 
 
+LaTeX Warning: Label `ch:background' multiply defined.
+
+
 LaTeX Warning: Label `fig:label' multiply defined.
 
 
@@ -671,7 +674,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-<Figures/LogoBlack.jpg, id=205, 637.99644pt x 634.88806pt>
+<Figures/LogoBlack.jpg, id=341, 637.99644pt x 634.88806pt>
 File: Figures/LogoBlack.jpg Graphic file (type jpg)
 <use Figures/LogoBlack.jpg>
 Package pdftex.def Info: Figures/LogoBlack.jpg  used on input line 59.
@@ -688,16 +691,16 @@ Package pdftex.def Info: Figures/LogoBlack.jpg  used on input line 59.
 
 ] (./HWThesis.toc [2
 
-])
+] [3]
+[4])
 \tf@toc=\write6
 \openout6 = `HWThesis.toc'.
 
- [3]
-(./HWThesis.lot)
+ [5] (./HWThesis.lot)
 \tf@lot=\write7
 \openout7 = `HWThesis.lot'.
 
- [4
+ [6
 
 ] (./HWThesis.lof)
 \tf@lof=\write8
@@ -705,7 +708,7 @@ Package pdftex.def Info: Figures/LogoBlack.jpg  used on input line 59.
 
 
 No file HWThesis.gls.
-[5
+[7
 
 ] (./Introduction.tex
 Chapter 1.
@@ -1071,7 +1074,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23]) (./Background.tex
+[23]) (./List_of_Notation.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1080,7 +1083,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [24]
 Chapter 2.
-<Figures/Background/pic.png, id=491, 582.175pt x 441.65pt>
+<Figures/Background/pic.png, id=678, 582.175pt x 441.65pt>
 File: Figures/Background/pic.png Graphic file (type png)
 <use Figures/Background/pic.png>
 Package pdftex.def Info: Figures/Background/pic.png  used on input line 20.
@@ -1093,7 +1096,7 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.46 \end{table}
-                 <./Figures/Background/pic.png>]) (./Stability_Study.tex
+                 <./Figures/Background/pic.png>]) (./Background.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1106,40 +1109,49 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.3 \chapter
+            {Background}]
+Chapter 3.
+File: Figures/Background/pic.png Graphic file (type png)
+<use Figures/Background/pic.png>
+Package pdftex.def Info: Figures/Background/pic.png  used on input line 20.
+(pdftex.def)             Requested size: 341.43306pt x 259.02126pt.
+[27
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.46 \end{table}
+                ]) (./Stability_Study.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 \chapter
             {Modelling of a rotating free-floating object dynamic interactio...
 ]
-Chapter 3.
+Chapter 4.
 
 Overfull \hbox (25.22438pt too wide) in paragraph at lines 13--13
 []\OT1/cmr/bx/n/17.28 Introductory il-lus-tra-tion the Yo-Yo de-spin mech-
  []
 
-[27
+[29
 
 ]
-Overfull \hbox (25.22438pt too wide) in paragraph at lines 22--22
-[]\OT1/cmr/bx/n/17.28 Introductory il-lus-tra-tion the Yo-Yo de-spin mech-
- []
-
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 53.
+(amsmath)                 on input line 50.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 27.18335pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[28]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 27.18335pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[29]) (./Design.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 27.18335pt.
@@ -1147,72 +1159,285 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [30]
-Chapter 4.
-<Figures/Design/pic.png, id=539, 501.875pt x 460.72125pt>
-File: Figures/Design/pic.png Graphic file (type png)
-<use Figures/Design/pic.png>
-Package pdftex.def Info: Figures/Design/pic.png  used on input line 13.
-(pdftex.def)             Requested size: 341.43306pt x 313.448pt.
-[31
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.36 \end{table}
-                 <./Figures/Design/pic.png (PNG copy)>]) (./Conclusion.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
+ Make it at least 27.18335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[32pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}
-) has been already used, duplicate ignored
+[31]
+Overfull \hbox (82.42493pt too wide) in paragraph at lines 100--101
+[]$\OML/cmm/m/it/12 A[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 A[] \OT1/cmr/m/n/12 
+= 2\OML/cmm/m/it/12 r[]cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 
+)\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 )\OML
+/cmm/m/it/12 sin[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 ) + \OML
+/cmm/m/it/12 r[][]sin[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )(\
+OML/cmm/m/it/12 cos[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 ) \OM
+S/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 sin[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\O
+T1/cmr/m/n/12 )) + 2\OML/cmm/m/it/12 r[][]cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+^^^\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\O
+T1/cmr/m/n/12 )\OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cm
+r/m/n/12 )\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n
+/12 )$ 
+ []
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1 \chapter
-            {Conclusion and Future Work}]
+
+Overfull \hbox (31.68037pt too wide) in paragraph at lines 108--109
+[]$\OML/cmm/m/it/12 R[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 r[]\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 )\OML/
+cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )\OML/cmm/m
+/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )[] + \OML/cmm/m
+/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 )[]) + 2\OML/cmm
+/m/it/12 r[][][]cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 )\OML/c
+mm/m/it/12 cos[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 ) \OMS/cms
+y/m/n/12 ^^@ \OML/cmm/m/it/12 r[][]sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1
+/cmr/m/n/12 )\OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/
+m/n/12 )\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/1
+2 ) +
+ []
+
+
+Overfull \hbox (31.68037pt too wide) in paragraph at lines 110--111
+[]$\OML/cmm/m/it/12 R[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 r[]\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 )\OML/
+cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )\OML/cmm/m
+/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )[] \OMS/cmsy/m/
+n/12 ^^@ \OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/
+12 )[]) + 2\OML/cmm/m/it/12 r[][][]sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1
+/cmr/m/n/12 )\OML/cmm/m/it/12 cos[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cm
+r/m/n/12 ) + \OML/cmm/m/it/12 r[][]cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^^\OT1
+/cmr/m/n/12 )\OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/
+m/n/12 )\OML/cmm/m/it/12 sin\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/1
+2 ) +
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+Overfull \hbox (36.16696pt too wide) in paragraph at lines 197--198
+[]$[][] \OT1/cmr/m/n/12 = [][] + [][] + [][] []\OML/cmm/m/it/12 dm \OT1/cmr/m/n
+/12 + [][] []\OML/cmm/m/it/12 dm$ 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35]
+Overfull \hbox (14.87627pt too wide) in paragraph at lines 262--265
+$[]\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cmm/m/it/12 ; \O
+T1/cmr/bx/n/12 t\OT1/cmr/m/n/12 )[] = []$ 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37]
+Overfull \hbox (16.13591pt too wide) in paragraph at lines 299--300
+[]$[][]\OT1/cmr/bx/n/12 I[][] \OT1/cmr/m/n/12 + []\OT1/cmr/bx/n/12 I[]\OT1/cmr/
+m/n/12 (\OT1/cmr/bx/n/12 x[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n
+/12 )[][][][] = [][]\OT1/cmr/bx/n/12 I[][] \OT1/cmr/m/n/12 + []\OT1/cmr/bx/n/12
+ I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t\OT
+1/cmr/m/n/12 )[][][][] + []\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/1
+2 x\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t\OT1/cmr/m/n/12 )[][](\OT1/cmr/bx/n/12 
+x\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t\OT1/cmr/m/n/12 )$ 
+ []
+
+
+Overfull \hbox (66.70341pt too wide) in paragraph at lines 303--304
+[]$[][] \OT1/cmr/m/n/12 = [][]\OT1/cmr/bx/n/12 I[][] \OT1/cmr/m/n/12 + []\OT1/c
+mr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cmm/m/it/12 ; \OT1/cmr/bx
+/n/12 t\OT1/cmr/m/n/12 )[][][][][][]\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/c
+mr/bx/n/12 x[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n/12 )[] \OMS/c
+msy/m/n/12 ^^@ []\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cm
+m/m/it/12 ; \OT1/cmr/bx/n/12 t\OT1/cmr/m/n/12 )[][][][] \OMS/cmsy/m/n/12 ^^@ []
+\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x\OML/cmm/m/it/12 ; \OT1/
+cmr/bx/n/12 t\OT1/cmr/m/n/12 )[][](\OT1/cmr/bx/n/12 x\OML/cmm/m/it/12 ; \OT1/cm
+r/bx/n/12 t\OT1/cmr/m/n/12 )[]$ 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 390.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 390.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41]
+Overfull \hbox (12.18015pt too wide) detected at line 428
+\OML/cmm/m/it/12 T[] \OT1/cmr/m/n/12 = []^^A\OML/cmm/m/it/12 T \OT1/cmr/m/n/12 
+= \OMS/cmsy/m/n/12 ^^@[][][]\OT1/cmr/bx/n/12 I[][] \OT1/cmr/m/n/12 + []\OT1/cmr
+/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x[]\OML/cmm/m/it/12 ; \OT1/cmr/bx
+/n/12 t[]\OT1/cmr/m/n/12 )[][][][][]\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/c
+mr/bx/n/12 x[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n/12 )[][][][] 
+\OMS/cmsy/m/n/12 ^^A [][]\OT1/cmr/bx/n/12 I[][][][][]
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42]
+Overfull \hbox (44.86665pt too wide) in paragraph at lines 449--452
+[]\OT1/cmr/m/n/12 but we need a value for the ki-netic en-ergy $\OML/cmm/m/it/1
+2 T$ \OT1/cmr/m/n/12 which in gen-eral $\OML/cmm/m/it/12 T \OT1/cmr/m/n/12 = []
+[][] [] [][]$
+ []
+
+
+Overfull \hbox (55.01714pt too wide) in paragraph at lines 458--459
+\OT1/cmr/m/n/12 am-e-ter and have ro-ta-tion pe-ri-ods of a few min-utes we cho
+ose 5min ie $0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 020943951023932\OML/cmm/m/it/12
+ rad:s[]$\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (20.11125pt too wide) in paragraph at lines 460--461
+$[][]\OT1/cmr/bx/n/12 I[][] \OT1/cmr/m/n/12 + []\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/
+n/12 (\OT1/cmr/bx/n/12 x[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n/1
+2 )[][][][] + []\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x[]\OML/c
+mm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n/12 )[][](\OT1/cmr/bx/n/12 x\OML/c
+mm/m/it/12 ; \OT1/cmr/bx/n/12 t\OT1/cmr/m/n/12 ) = [][]\OT1/cmr/bx/n/12 I[][] \
+OT1/cmr/m/n/12 + []\OT1/cmr/bx/n/12 I[]\OT1/cmr/m/n/12 (\OT1/cmr/bx/n/12 x[]\OM
+L/cmm/m/it/12 ; \OT1/cmr/bx/n/12 t[]\OT1/cmr/m/n/12 )[][][][]$ 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43]) (./Envelopment_Task.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44]
 Chapter 5.
-) (./Appendix1.tex [33
+
+Overfull \hbox (10.94441pt too wide) in paragraph at lines 7--7
+[]\OT1/cmr/bx/n/17.28 Report and in-ter-pret re-sults con-clude and open
+ []
+
+) (./Arm_Stabilisation.tex [45
+
+]
+Chapter 6.
+
+Overfull \hbox (19.82437pt too wide) in paragraph at lines 10--10
+\OT1/cmr/bx/n/17.28 For-mu-la-tion Con-trol De-sign Ex-per-i-men-tal setup
+ []
+
+
+Overfull \hbox (19.82437pt too wide) in paragraph at lines 17--17
+\OT1/cmr/bx/n/17.28 For-mu-la-tion Con-trol De-sign Ex-per-i-men-tal setup
+ []
+
+) (./Conclusion.tex [46
+
+]
+Chapter 7.
+) (./Appendix1.tex [47
 
 ]
 Appendix A.
-) (./HWThesis.bbl [34
+) (./HWThesis.bbl [48
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [35
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+ [49
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (./HWThesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package rerunfilecheck Info: File `HWThesis.out' has not changed.
+(rerunfilecheck)             Checksum: 0B442516D41FF2C034CAF8959C1855C3;7361.
 
-
-Package rerunfilecheck Warning: File `HWThesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `HWThesis.out':
-(rerunfilecheck)             Before: FB78D45EDE921EAF829DB9723CF17E79;4051
-(rerunfilecheck)             After:  C2481D16FD5BA5AC86D1A125D7C8C9FB;4128.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 13627 strings out of 492982
- 200517 string characters out of 6134895
- 370224 words of memory out of 5000000
- 16749 multiletter control sequences out of 15000+600000
+ 13729 strings out of 492982
+ 202033 string characters out of 6134895
+ 384658 words of memory out of 5000000
+ 16795 multiletter control sequences out of 15000+600000
  12048 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,17n,43p,2664b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1222,25 +1447,26 @@ eplaced by a fixed one
 pdfTeX warning (dest): name{glo:ghc} has been referenced but does not exist, re
 placed by a fixed one
 
-pdfTeX warning (dest): name{figure.3.1} has been referenced but does not exist,
- replaced by a fixed one
-
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on HWThesis.pdf (42 pages, 489333 bytes).
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on HWThesis.pdf (58 pages, 551822 bytes).
 PDF statistics:
- 643 PDF objects out of 1000 (max. 8388607)
- 577 compressed objects within 6 object streams
- 180 named destinations out of 1000 (max. 500000)
- 416 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 920 PDF objects out of 1000 (max. 8388607)
+ 832 compressed objects within 9 object streams
+ 228 named destinations out of 1000 (max. 500000)
+ 683 words of extra memory for PDF output out of 10000 (max. 10000000)
 
